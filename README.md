@@ -1,6 +1,8 @@
 # Mi8E-Unlocker 全自动版
-目前提供两个分支，一个是交互版，一个是全自动版，如需选择交互版请切换分支
+**如果需要任何帮助，欢迎在这个频道中交流：**
+> **"If you need any help, feel free to reach out in this channel: https://t.me/kernix_dev"**
 
+---
 ​本项目是专为搭载骁龙 8 至尊版（Snapdragon 8 Elite）平台的小米设备打造的 Windows 一键 BL 解锁辅助工具。通过 toUnlock.bat 脚本，实现 HyperOS 2026.02.01之前补丁系统下的自动化解锁流程
 ---
 感谢来自 [@Littlenine](https://github.com/LittlenineEnnea) 的核心技术支持
